@@ -1,11 +1,14 @@
 
 
-Conecta Vidas
+# Conecta Vidas
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![image](https://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badgee)
 
 
 <hr>
+
+![image](https://raw.githubusercontent.com/leobonkoski/conecta_vidas/main/images/logo_conecta_vidas.png)
+
 
 
 <a name="ancora"></a>
@@ -36,9 +39,15 @@ Conecta Vidas
  TCC do curso de Informática do Colégio Técnico Industrial “Prof. Isaac Portal Roldán” da UNESP de Bauru no ano de 2021. O Conecta Vidas foi uma proposta de aplicativo mobile pensado em parceria com o Hemonúcleo do Hospital de Base de Bauru que visou facilitar a comunicação e integraçao entre o hemonúcleo e a população para que a queda da arrecadação de sangue fosse amenizada.
 
 O sistema partiu da iniciativa de reduzir significativamente o tempo que o doador gastaria entrando em contato com os responsáveis pela parte administrativa do Hemonúcleo, facilitando a disponibilização dos documentos necessários para a doação de sangue, requisitos básicos, impedimentos temporários e definitivos, orientações ao doador e os contatos que o indivíduo possa, ocasionalmente, precisar, além de dados cadastrais e demais informações pertinentes. Para tanto, foram imprescindíveis alguns encontros entre os alunos e a equipe da área da Tecnologia da Informação do Hospital. 
-
-![Descrição do projeto GlicoCare, onde se tem um paciente medindo glicose com um glicosímetro, conectado via Bluetooth ao aplicativo que o profissional da saúde tem acesso.](https://user-images.githubusercontent.com/37356058/132422764-5a4e5300-7b04-4411-9126-387a445bc627.png)
 </p>
+
+<div align="center"> 
+
+![Gif ilustrando as telas do Conecta Vidas](https://raw.githubusercontent.com/leobonkoski/conecta_vidas/main/images/gif_conecta_vidas.gif)
+
+  </div>
+
+
 
 <a id="funcionalidades"></a>
 
@@ -55,10 +64,10 @@ O sistema partiu da iniciativa de reduzir significativamente o tempo que o doado
 
 ## 📱 Aplicação
 
-Vídeo demonstrativo e explicativo sobre o Conecta Vidas apresentando o resultado final para o time de desenvolvimento da [Famesp](https://www.famesp.org.br/).
+Vídeo demonstrativo e explicativo sobre o Conecta Vidas apresentando o resultado final e comentando sobre todo o desenvolvimento para o time de desenvolvimento da [Famesp](https://www.famesp.org.br/).
 <div align="center">
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=55rdOb0fqzI&ab_channel=LeonardoBonkoski)
+[![Apresentação do Conecta Vidas](https://raw.githubusercontent.com/leobonkoski/conecta_vidas/main/images/thumb_video_conecta_vidas.png)](https://www.youtube.com/watch?v=55rdOb0fqzI&ab_channel=LeonardoBonkoski )
 
   </div>
 
