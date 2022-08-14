@@ -96,7 +96,6 @@ Você pode [acessar o código fonte do projeto](https://github.com/leobonkoski/c
 ## 🛠️ Guias de instalação e execução do projeto
 
 Foram criados artigos com os passos necessários para a preparação, instalação e execução do Conecta Vidas e que podem ser encontrados [neste drive](https://drive.google.com/drive/folders/1iUYEDjFBGfrRauYBdDvpsx1H3fJszOJ7?usp=sharing). 
-🏆 
 
  <a id="resultados_alcancados"></a>
 
@@ -118,7 +117,7 @@ Você pode saber mais através das seguintes matérias publicadas pela imprensa:
 
 [Leonardo Bonkoski Raphael](https://github.com/leobonkoski/conecta_vidas) (Líder)
 
-[Lorena Cristine De Almeida Silva](https://github.com/lorenacsilva) (Vice-lider)
+[Lorena Cristine De Almeida Silva](https://github.com/lorenacsilva) (Vice-líder)
  
 [Emily Bigal Faveri](https://github.com/emybigal) 
 
