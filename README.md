@@ -123,7 +123,7 @@ Você pode saber mais através das seguintes matérias publicadas pela imprensa:
 
 [Fabricio Isidoro Galdino](https://github.com/GaldinoFabricio)
 
-[Guilherme Augusto Reis Pereira](https://github.com/reisgk). 
+[Guilherme Augusto Reis Pereira](https://github.com/reisgk)
 
 [Kemily Rafaelly Heleno](https://github.com/KemilyHeleno) 
 
