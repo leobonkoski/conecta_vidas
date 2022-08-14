@@ -101,7 +101,7 @@ Foram criados artigos com os passos necessários para a preparação, instalaç�
 
 ## 🏆 Resultados alcançados com o projeto
 
-Como principal resultado alcançado, Conecta Vidas e todo o entorno de discussões sobre o projeto resultaram no projeto servindo de inspiração emodelo para que o time de desenvolvimento da [Famesp](https://www.famesp.org.br/) incorporasse uma seção dedicada ao Hémonucleo em um aplicativo própio intitulado ``“Famesp com você”`` que permite o acesso aos agendamentos e exames dos pacientes atendidos pelas unidades de saúde administradas pela Famesp.
+Como principal resultado alcançado, Conecta Vidas e todo o entorno de discussões sobre o projeto resultaram no projeto servindo de inspiração e modelo para que o time de desenvolvimento da [Famesp](https://www.famesp.org.br/) incorporasse uma seção dedicada ao Hémonucleo em um aplicativo própio intitulado ``“Famesp com você”`` que permite o acesso aos agendamentos e exames dos pacientes atendidos pelas unidades de saúde administradas pela Famesp.
 Com muito orgulho podemos dizer que este projeto teve um pequeno impacto, contribuindo socialmente e facilitando a vida de doadores. 
 
 Você pode saber mais através das seguintes matérias publicadas pela imprensa: 
